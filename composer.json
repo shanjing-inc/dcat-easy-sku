@@ -1,5 +1,5 @@
 {
-    "name": "lty5240/dcat-easy-sku",
+    "name": "shanjing/dcat-easy-sku",
     "description": "基于Dcat Admin的Sku插件",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
